@@ -1,32 +1,33 @@
 id,name,group
-Concept_12, Fair Coin,1
-Concept_13, Probability,1
-Concept_14, Venn Diagrams,1
-Concept_15, Set Operations,1
-Concept_16, Set Theory,1
-Concept_17, Functions,1
-Concept_18, Infinite Series
-Concept_19, Sums with Multiple Indices
-Concept_20, Countable and Uncountable Sets
-Concept_21, Sample Space
-Concept_22, Event
-Concept_23, Discrete Random Variable
-Concept_24, Mutually Exclusive
-Concept_25, Collectively Exhaustive
-Concept_26, Probability Laws
-Concept_27, Axiom
-Concept_28, The Nonnegativity Axiom
-Concept_29, The Normalization Axiom
-Concept_30, Measure Theory
-Concept_31, Measure Space
-Concept_32, Sigma Algebra
-Concept_33, Finite Additivity
-Concept_34, Example: Two Rolls of a Tetrahedral Die
-Concept_35, Continuous Random Variable
-Concept_36, Example: Point Randomly Selected on the Unit Square
-Concept_37, Countable Additivity
-Concept_38, Example: A discrete but infinite sample space [Example]
-Concept_39, Interpretation of Probabilities
-Concept_40, Frequentist Interpretation of Probability
-Concept_41, Formalist Interpretation of Probability
-Concept_42, Epistemic Interpretation of Probability
+Node_1,Fair Coin,1
+Node_2,Probability,1
+Node_3,Venn Diagrams,1
+Node_4,Set Operations,1
+Node_5,Set Theory,1
+Node_6,Functions,1
+Node_7,Infinite Series,1
+Node_8,Sums with Multiple Indices,1
+Node_9,Countable and Uncountable Sets,1
+Node_10,Sample Space,1
+Node_11,Event,1
+Node_12,Discrete Random Variable,1
+Node_13,Mutually Exclusive,1
+Node_14,Collectively Exhaustive,1
+Node_15,Probability Laws,1
+Node_16,Axiom,1
+Node_17,The Nonnegativity Axiom,1
+Node_18,The Normalization Axiom,1
+Node_19,Measure Theory,1
+Node_20,Measure Space,1
+Node_21,Sigma Algebra,1
+Node_22,Finite Additivity,1
+Node_23,Example: Two Rolls of a Tetrahedral Die,1
+Node_24,Continuous Random Variable,1
+Node_25,Example: Point Randomly Selected on the Unit Square,1
+Node_26,Countable Additivity,1
+Node_27,Example: A discrete but infinite sample space [Example],1
+Node_28,Interpretation of Probabilities,1
+Node_29,Frequentist Interpretation of Probability,1
+Node_30,Formalist Interpretation of Probability,1
+Node_31,Epistemic Interpretation of Probability,1
+Node_32,Calculus,1
